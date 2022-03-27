@@ -6,7 +6,7 @@
 [![Discord][4]](https://discordapp.com/users/576632460339707925)
 [![Leetcode][5]](https://leetcode.com/hannknguyen/)
 
-**Current Family: Salesforce | AMTS Software Engineer**
+**Current Workplace: Salesforce | AMTS Software Engineer**
 
 **Education: University of California, Davis (B.S. Computer Science), class of 2021**
  
