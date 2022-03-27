@@ -6,19 +6,7 @@
 [![Discord][4]](https://discordapp.com/users/576632460339707925)
 [![Leetcode][5]](https://leetcode.com/hannknguyen/)
 
-**Current Workplace: Salesforce | AMTS Software Engineer**
-
-**Education: University of California, Davis (B.S. Computer Science), class of 2021**
- 
-I have strong proficiency in **Python, C/C++** and am familiar with **Java**, 
-**R** and **Golang**. I also learn to build web and mobile applications using **HTML/CSS, 
-JavaScript, PHP, MySQL** and **Swift**.
-
-I aspire to utilize my skills in the field of software engineering and data analytics.
-In the mean time, I will keep on learning!
-
-Check out some of my projects below and be sure to contact me via email above or hit me up
-on Discord.
+Simply whistle and code
 
 [1]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 [2]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
