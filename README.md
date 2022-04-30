@@ -1,8 +1,8 @@
 <h2>Hello 👋 Han is here!</h2>
 
-[![Website][1]](https://hannknguyen.github.io)
+[![Website][1]](https://hannkn.github.io)
 [![Email][2]](mailto:hannguyendev@gmail.com)
-[![LinkedIn][3]](https://www.linkedin.com/in/hannknguyen)
+[![LinkedIn][3]](https://www.linkedin.com/in/hannkn)
 [![Discord][4]](https://discordapp.com/users/576632460339707925)
 [![Leetcode][5]](https://leetcode.com/hannknguyen/)
 
