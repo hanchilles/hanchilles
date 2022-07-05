@@ -6,7 +6,10 @@
 [![Discord][4]](https://discordapp.com/users/576632460339707925)
 [![Leetcode][5]](https://leetcode.com/hanchilles)
 
-Simply whistle and code
+**UC Davis (Class of 2021) | AMTS Software Engineer at Salesforce (2022-present)**
+
+I simply love sitting in my desk and coding all day long. I would love to apply my smartness, 
+creativity and kindness to making a better world with technologies ^^
 
 [1]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 [2]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
