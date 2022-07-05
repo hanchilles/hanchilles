@@ -6,7 +6,7 @@
 [![Discord][4]](https://discordapp.com/users/576632460339707925)
 [![Leetcode][5]](https://leetcode.com/hanchilles)
 
-**UC Davis (Class of 2021) | AMTS Software Engineer at Salesforce (2022-present)**
+**UC Davis (Class of 2021) | Salesforce (2022-present)**
 
 I simply love sitting in my desk and coding all day long. I would love to apply my smartness, 
 creativity and kindness to making a better world with technologies ^^
