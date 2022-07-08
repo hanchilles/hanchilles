@@ -2,7 +2,7 @@
 
 [![Website][1]](https://hanchilles.com)
 [![Email][2]](mailto:hannguyendev@gmail.com)
-[![LinkedIn][3]](https://www.linkedin.com/in/hannkn)
+[![LinkedIn][3]](https://www.linkedin.com/in/hanchilles)
 [![Discord][4]](https://discordapp.com/users/576632460339707925)
 [![Leetcode][5]](https://leetcode.com/hanchilles)
 
