@@ -8,7 +8,10 @@
 
 **UC Davis (Class of 2021) | Salesforce (2022-present)**
 
-Started from Mathematics, made for Computer Science 
+Started from Mathematics, made for Computer Science
+
+I dedicate this hard-work commitment to my Mom and my love TMS. Hope I have been making you 
+proud after all this time!
 
 [1]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 [2]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
